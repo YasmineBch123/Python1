@@ -1,2 +1,5 @@
-for nummer in range (10,101,10):
- print (nummer)
+
+#opdracht 2 Woord draaien (1)
+woord = input("voer woord in")[::-1]
+print(woord)
+#Gedaan
